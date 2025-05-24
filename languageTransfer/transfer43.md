@@ -38,3 +38,6 @@ Example:
 - We should speak to him - Deberíamos hablar le.
 - We should speak to them - Deberíamos hablar les.
 - We should speak with him/her - Deberíamos hablar con el/ella.
+
+I would give - Daría
+They would give me it- Me lo darían
