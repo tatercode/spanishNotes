@@ -22,6 +22,7 @@ We use haber (to have (Compound tenses and existence))
 - Han (They have)
 - Has (You have)
 
+Will
 Bailaré - I will dance
 Bailaremos - We will dance
 Bailarán - They will dance
@@ -42,7 +43,7 @@ Comería pero no tengo tiempo - I would eat but I have no time
 
 
 Transformar - To transform
-- Transformaría la situacion - It would transform
+- Transformaría la situacion - It would transform the situation
 
 Itself - se
 - se transformaría  - It would get transformed
