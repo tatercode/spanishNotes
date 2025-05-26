@@ -6,7 +6,7 @@ Spanish: I haven fallen love of you
 se - self? 
 Enamorar - Fall in love (se - self?)
 - Me Enamoro - I fall in love of myself 
-- Me enamoro de ti - I fall in love of you
+- Me enamoro de ti - I fall in love of/with you
 - Me enamoro de el - I fall in love with him
 - Estoy me enamorando/ Estoy enamorando me - I'm falling in love of myself 
 

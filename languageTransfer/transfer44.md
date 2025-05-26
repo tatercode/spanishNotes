@@ -15,7 +15,7 @@ Esta noche - this night
 - Este (Masculine)
 - Esta (Feminine)
 
-Ese - That
+Eso - That
 Eses - Those
 Esa - That
 Esas - Those 
@@ -50,7 +50,7 @@ Nos Deberían dar una mano - You guys should give us a hand
 
 I would like to speak spanish more, but I can't speak it well
 
-Me gustaría hablar Espanol mas, pero no puedo lo hablar bien
+Me gustaría hablar Espanol mas, pero no lo puedo hablar bien
 
 
 
