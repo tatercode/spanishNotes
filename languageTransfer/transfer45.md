@@ -25,7 +25,7 @@ Le interesa bailar esta noche - Does it interest her to dance tonight
 
 Le interesa salir a bailar esta noche  - Does it interest her to go out to dance tonight 
 
-Te inreresaría salir a baliar esta noche? - Would it interest you to go out to dance tonight?
+Te interesaría salir a baliar esta noche? - Would it interest you to go out to dance tonight?
 
 # To seem
 - Parecer - To seem
