@@ -34,3 +34,25 @@ Poderíamos haber ido - we could have gone
 
 - Estoy muerto - I am dead
 - Morir se - I die myself
+
+- Abrir - to open
+- Esta abierto 
+- Estan abiertos
+- Lo he abierto
+
+### Dicho y hecho
+- Decir - to say
+- Hacer - To make
+
+- Dicho 
+- Lo he dicho - I have said it
+- Le he dicho - I have told him
+- Le hemos dicho - We have told him
+
+- Hecho
+- Lo he hecho - I have done it
+- debería haberlo hecho - I should have done it
+- Deberías haberlo hecho - You should done it
+- Esta hecho
+- Hecho en Chino - Made in China
+- Un hecho
