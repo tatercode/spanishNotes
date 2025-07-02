@@ -34,6 +34,7 @@
 
 
 - No se con quien tengo que hacerlo - I don't know with who I have to do it with
+- No se para quien tengo que hacerlo - I don't for who I have to do it
 
 
 
