@@ -64,31 +64,90 @@ Con permiso - Excuse me (passing through)
 - Somos (nosotros/nosotras) - We are
 - Son (Ellos/ellas/ustedes) - They are
 
+# Ser vs Estar
+## Ser
+- Ser used when talking about what something is (permanent)
+    - DOCTOR
+    - Descriptions
+    - Occupations
+    - Characteristics
+    - Time 
+    - Origin
+    - Relationships
+
+    Ex: Yo soy Taven. | El es alto | Nosotros somos catolicos
 
 
+## Estar
+- Estoy (yo)
+- Estas (tu)
+- Esta (El/ella/usted)
+- Nosotros/Nosotras (estamos)
+- Estan (ellos/ellas/ustedes)
+- Estar used when talking about how something is (states/temporary)
+    - PLACE
+    - Position
+    - Location (permanently or temporarily)
+    - Action
+    - Condition
+    - Emotion
+
+     Ex: Ellos estan parados - They are standing up
+     Ex: Ustedes estan en la casa
+     Ex: Estoy leyendo un libro
+     Ex: Estoy aburrido - I'm bored
 
 
+# This, That, These, those
+## Cerca (near)
+Esto - this (neutral)
+Esta - this (f)
+Este - thes (m)
 
+PLURAL
+Estos - these (plural, m)
+Estas - these (plural, f)
 
+## Lejos (far)
+Eso - that (neutral)
+Esa - that (f)
+Ese - that (m)
 
+Esos - those (plural, m)
+Esas - those (plural, f)
 
+### Examples
+- Que es esto? - What is this
+- Este/o es un huevo - This is an egg
+- Esta casa - This house
+- Esta casa es roja - This house is red
+- Este jugo es de naranja - This is an orange juice
+- Estos hombres caminan - These men walk
 
+- Que es eso?
+- Eso es un perro - that is a dog
+- esa nina come cereal - That girl eats cereal
+- Esa cosa - that thing
+- Esa cable - That cable
+- Ese gato - that cat
+- Ese perro duerme - that dog sleeps
 
+# Colors
+- Morado / Purpura - Purple
+- Negro - black
+- Rojo - red
+- Blanco - white
+- Gris - gray
+- Cafe / Marron - Brown
+- Amarillo - yellow
+- Naranja - Orange
+- Azul - blue
+- Rosa / Rosado - Pink
+- Verde - green
+- Crema - cream colored
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ex: este es un jugeute morado - this is a purple toy
+Ex: El hombre tiene una camisa negra - The man has a black shirt
 
 
 
