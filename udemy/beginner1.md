@@ -149,6 +149,21 @@ Esas - those (plural, f)
 Ex: este es un jugeute morado - this is a purple toy
 Ex: El hombre tiene una camisa negra - The man has a black shirt
 
+# Numbers
+- Uno, dos, tres, cuatro, cinco, seis, siete, ohco, nueve, diez
+- Once, doce, trece, catorce, quince, dieciseis, diecisiete, dieciocho, diecinueve,
+veinte
+- Veintiuno, veintidos, vientitres .... and so on
+- Treinta, Treinta y uno, treinta y tres
+- Cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien, ciento uno
+- Doscientos, trescientos, cuatrocientos, quinientos, seiscientors, setecientos,
+ochocientos, novecientos, mil, dos mil and so on
+- Tres mil, diez mil
+- Veinte mil, cien mil, doscientos mil, trescientos mil
+- Un millon
+- Menos uno, menos dos, menos tres - Negative numbers
+
+
 
 
 
