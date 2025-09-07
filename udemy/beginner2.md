@@ -62,8 +62,27 @@ Ex:
 - Quien - who
      - Quien es el - who is he
 
+# Sizes
+- Grande - big
+- Pequeno - Small
+- Alto - tall
+- Bajo - short
+- Chico - small boy child
+- Chica - small girl
 
+Ex: El leon es grande!
 
+# Possesive adjectives
+- Mi, mis - my, my (plural)
+    Ex: Estas son mis casa - These are my homes
+- Tu, tus - your, your (pl)  
+    Ex: Este es tu sandwich
+- Su, sus - his/her/your (formal)
+    Ex: Ella esta leyendo su libro - She is reading her book
+- Nuestro, nuesta, nuestros (as) (pl) - Our
+    Ex: Nuestros bebes - our babies
+- Su, sus - their (ellos, ellas, ustedes)
+    Ex: Su carro es rojo - Their car is red
 
 
 
